@@ -36,4 +36,3 @@ else:
         BENEFITS: 0% Fuel Surcharge & International Lounge Access Included.""")
     else:
         print("Rejected: Monthly income is too low.")
-
