@@ -1,5 +1,5 @@
 # 📧 Email Intelligence System
-A command-line Python application that analyzes email addresses using **Python string operations**. This project extracts useful information such as the username, domain, extension, and validates basic email details using conditional statements.
+A command-line Python application that analyzes email addresses using **Python string operations**. This project extracts useful information such as the username, domain, extension, and validates basic email details using conditional statements
 
 ## 🚀 Features
 - Extract Username
